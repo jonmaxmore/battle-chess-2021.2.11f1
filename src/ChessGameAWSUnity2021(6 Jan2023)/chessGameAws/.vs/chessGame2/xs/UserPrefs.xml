@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{49F4CFED-A68C-AA03-6342-9717CB20283F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LoadData.cs">
+    <Files>
+      <File FileName="Assets/LoadData.cs" Line="84" Column="1" />
+      <File FileName="Assets/Project/MyFolder/Scripts/Chessboard.cs" Line="148" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b99c8594-6110-4816-a560-8c33c362e17f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

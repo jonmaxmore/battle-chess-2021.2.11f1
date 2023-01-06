@@ -1,0 +1,5 @@
+Instance: i-0867145c12771af33 (BattleChess Server)
+
+Chess DB password for Linux Mysql user
+user : root
+password: battleLab@!050322
